@@ -12,7 +12,8 @@ This project is still being worked on. It is unofficial and is not affiliated wi
 
 [What changed in v0.1.31](release/notes-v0.1.31.md)
 
-Updated November 13: the v0.1.31 download includes the battle music repair, missing summon artwork correction and compatible game-data startup fix. Existing installations receive the music repair through the game-data update.
+**v0.1.31, Android build 9072** is available. It includes the engine fix for purchases, equipment and party edits, awakening, fusion and unit selling, plus the earlier battle music, summon artwork and game-data startup corrections. 
+Install over the existing app to keep your save.
 
 ## Screenshots
 
@@ -80,6 +81,8 @@ To report a problem, [open an issue](https://github.com/Elvlin/exvius-offline/is
 If you would like to support the project, you can find me on [Ko-fi](https://ko-fi.com/elvlin) or [Patreon](https://www.patreon.com/c/ElvlinGame).
 
 You can also contact me there if you have a project request or an idea you want to discuss. 
+
+Join the community on [Discord](https://discord.gg/Wnqh9q5WMY).
 
 ## Files in this repository
 
